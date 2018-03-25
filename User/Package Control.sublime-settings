@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"LoremIpsum",
+		"Package Control",
+		"SideBarEnhancements",
+		"sublimelint"
+	]
+}
